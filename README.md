@@ -3,6 +3,9 @@
 First paragraph. This is some stuff. 
 Second sentence. 
 third sentence. 
+this is a great link [how to install](https://evanwill.github.io/_drafts/notes/markdown-minute.html).
+
+![close up of text on page](https://upload.wikimedia.org/wikipedia/commons/4/4b/Focus_ubt.jpeg)
 
 Second Paragraph. 
 
@@ -24,3 +27,4 @@ Below is as follows:
 2. dog
 3. god
 4. dog
+
