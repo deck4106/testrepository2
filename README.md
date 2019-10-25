@@ -1,6 +1,6 @@
 # testrepository2
 
-First paragraph. This is some stuff. 
+First *paragraph*. This is some stuff. 
 Second sentence. 
 third sentence. 
 this is a great link [how to install](https://evanwill.github.io/_drafts/notes/markdown-minute.html).
@@ -11,16 +11,16 @@ Second Paragraph.
 
 ## Head 2
 
-new paragraph. Some more stuff
+**new paragraph. Some more stuff.**
 stuff, stuff. 
 
 ### Head 3
 
-- item one
+- item one `cd docs` and `jekyll s`
 - item two
 - item three
 
-Above this is a list of one through three.
+**_Above this is a list of one through three._**
 Below is as follows: 
 
 1. dog
@@ -28,3 +28,11 @@ Below is as follows:
 3. god
 4. dog
 
+Also there is code blocks
+
+```
+
+cd docks
+jekyll s 
+jekyll build
+```
